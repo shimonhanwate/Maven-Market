@@ -7,3 +7,6 @@ Dataset contains following induvial excel (csv) Files: • MavenMarket_Calendar.
 
 
 
+# Visuals
+**Top Line Performance**
+![MV1](https://github.com/shimonhanwate/Maven-Market/assets/165551277/d6c3259e-ec89-412a-aa31-dc1924965b5a)
